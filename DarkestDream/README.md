@@ -21,9 +21,10 @@
 
 Part | Title                    | Max XP 
 -----|--------------------------|-------
+0    | NSRE                     |  0
 1    | Welcome to Canivalle     |  0
-     | Prelude: Mad Bear        |  0
-     | Side Quest: The Old Well |  0  
+1    | Prelude: Mad Bear        |  0
+1    | Side Quest: The Old Well |  0  
 1A-O | And the Show Begins      |  0 
 2    | Ruins of Vordrud's Tower |  0 
 3    | The Closing of Carnivalle|  0
@@ -54,3 +55,37 @@ Spellbooks are valued at 50% of the cost of "learn a spell" for the highest-leve
 Treasure was provided for a party of 4. If you have additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.
 
 There is no spare treasure. If your players miss something early on in the adventure, you should include additional items later.
+
+## The Not-So-Random Encounter (NSRE) Table
+
+### 1. Hold This
+
+//TODO Convert Bonny stats and reward
+
+### 2. Marked
+
+* Perception DC 14 to notice marks
+* Survival DC 18 do determine the purpuse
+* Perception DC 20 to search the crowd
+
+### 3. Suspicious
+
+(...)
+
+## Lethal NSRE
+
+### 1. Sinful Activities
+
+### 2. ...
+
+## Battle Stats Table
+
+### The Mad Bear Encounter (80 XP, Moderate)
+
+Opponents: 1x [Grizzly Bear](https://2e.aonprd.com/Monsters.aspx?ID=2850)
+Allies: 2 [Nevermore Guards](https://2e.aonprd.com/NPCs.aspx?ID=933)
+Difficulty adjustments: You can use a [Cave Bear](https://2e.aonprd.com/Monsters.aspx?ID=2850) for a 60XP (Low) encounter, or remove the guards.
+
+### The Aracnic Revenant Encounter (60 XP, Low)
+
+Opponents: 1x [Aracnic Revenant](https://monster.pf2.tools/v/75S8JJpT-aracnic-revenant)
